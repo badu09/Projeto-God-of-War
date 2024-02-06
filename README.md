@@ -1,2 +1,2 @@
 # Projeto God of War
- Página do God of War web.
+ Página web do God of War.
